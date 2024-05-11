@@ -1,0 +1,63 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mr.Duong\\Documents\\Intern Simax\\SharePoint_Duong\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8D9DFF-3A7F-4A14-8875-DD4184628E85}|DuongBanAn\\DuongBanAn.csproj|c:\\users\\mr.duong\\documents\\intern simax\\sharepoint_duong\\duongbanan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD8D9DFF-3A7F-4A14-8875-DD4184628E85}|DuongBanAn\\DuongBanAn.csproj|solutionrelative:duongbanan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 1985,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mr.Duong\\Documents\\Intern Simax\\SharePoint_Duong\\DuongBanAn\\Program.cs",
+              "RelativeDocumentMoniker": "DuongBanAn\\Program.cs",
+              "ToolTip": "C:\\Users\\Mr.Duong\\Documents\\Intern Simax\\SharePoint_Duong\\DuongBanAn\\Program.cs",
+              "RelativeToolTip": "DuongBanAn\\Program.cs",
+              "ViewState": "AQIAAMACAAAAAAAAAAAkwM0CAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T03:23:17.518Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 459,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

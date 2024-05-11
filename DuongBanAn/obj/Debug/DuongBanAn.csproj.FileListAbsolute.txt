@@ -1,0 +1,10 @@
+C:\Users\Mr.Duong\Documents\Intern Simax\SharePoint_Duong\DuongBanAn\bin\Debug\DuongBanAn.exe.config
+C:\Users\Mr.Duong\Documents\Intern Simax\SharePoint_Duong\DuongBanAn\bin\Debug\DuongBanAn.exe
+C:\Users\Mr.Duong\Documents\Intern Simax\SharePoint_Duong\DuongBanAn\bin\Debug\DuongBanAn.pdb
+C:\Users\Mr.Duong\Documents\Intern Simax\SharePoint_Duong\DuongBanAn\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\Users\Mr.Duong\Documents\Intern Simax\SharePoint_Duong\DuongBanAn\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\Mr.Duong\Documents\Intern Simax\SharePoint_Duong\DuongBanAn\obj\Debug\DuongBanAn.csproj.AssemblyReference.cache
+C:\Users\Mr.Duong\Documents\Intern Simax\SharePoint_Duong\DuongBanAn\obj\Debug\DuongBanAn.csproj.CoreCompileInputs.cache
+C:\Users\Mr.Duong\Documents\Intern Simax\SharePoint_Duong\DuongBanAn\obj\Debug\DuongBanAn.csproj.Up2Date
+C:\Users\Mr.Duong\Documents\Intern Simax\SharePoint_Duong\DuongBanAn\obj\Debug\DuongBanAn.exe
+C:\Users\Mr.Duong\Documents\Intern Simax\SharePoint_Duong\DuongBanAn\obj\Debug\DuongBanAn.pdb
